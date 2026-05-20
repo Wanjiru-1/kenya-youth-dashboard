@@ -1,6 +1,6 @@
 # Kenya Youth Opportunity Dashboard 🇰🇪
 
-**Analyzing youth employment, education access, and digital connectivity across Kenya's 42 counties to identify investment priorities for economic inclusion.**
+**Analyzing youth employment, education access, and digital connectivity across Kenya's 47 counties to identify investment priorities for economic inclusion.**
 
 ## 📊 Project Overview
 
@@ -14,7 +14,7 @@ The analysis reveals significant regional disparities and identifies high-opport
 
 ## 🎯 Key Findings
 
-### National Averages (Across 42 Counties)
+### National Averages (Across 47 counties)
 - **Average Youth Unemployment:** 20.2%
 - **Average Education Access:** 58.4%
 - **Average Internet Connectivity:** 40.5%
